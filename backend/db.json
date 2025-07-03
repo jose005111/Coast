@@ -1,0 +1,100 @@
+{
+  "projects": [
+    {
+      "id": "13af",
+      "name": "José Manuel",
+      "budget": "909",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "d5c3",
+      "name": "Sem Reload",
+      "budget": "1000",
+      "category": {
+        "id": "5",
+        "name": "Educacional"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "97cf",
+      "name": "Novo Projecto",
+      "budget": "1000000000",
+      "category": {
+        "id": "4",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "0422",
+      "name": "Compras de Casa",
+      "budget": "5000",
+      "category": {
+        "id": "5",
+        "name": "Educacional"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "9d9b",
+      "name": "Restaurante Site",
+      "budget": "150000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 150000,
+      "services": [
+        {
+          "name": "UI/UX",
+          "cost": "30000",
+          "desc": "Vai desenhar o site",
+          "id": "8d3fc022-6b18-4b20-a30a-fe48e10af4e9"
+        },
+        {
+          "name": "Backend",
+          "cost": "40000",
+          "desc": "Fazer o Backend",
+          "id": "0da6983f-5139-4454-b32e-14a7726247b7"
+        },
+        {
+          "name": "Hospedagem",
+          "cost": "80000",
+          "desc": "Rodar o Site",
+          "id": "e171290d-8e99-4acf-a3a5-1da7dea1a73b"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Marketing"
+    },
+    {
+      "id": "4",
+      "name": "Design"
+    },
+    {
+      "id": "5",
+      "name": "Educacional"
+    }
+  ]
+}
